@@ -8,10 +8,10 @@ I am **16** years old and I've been in ****ACS**** for 10 years. I played ******
 
 [liverpool website](https://www.liverpoolfc.com/)
 
--Jordan
--Russia
--Germany
--Argentina
+- Jordan
+- Russia
+- Germany
+- Argentina
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
